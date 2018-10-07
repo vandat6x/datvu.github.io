@@ -1,0 +1,14 @@
+.tongthe {
+  width: 462px;
+  height: 462px;
+  border: solid 3px #614be8;
+  margin: 200px auto;
+}
+
+#rubik {
+  width: 150px;
+  height: 150px;
+  border: solid 1px;
+  margin: 1px;
+  float: left;
+}
